@@ -1,0 +1,10 @@
+.heading{
+  background-color:brown;
+  color: #ffffff;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 300px;
+  padding: 50px;
+  
+}
